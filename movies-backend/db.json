@@ -1,0 +1,43 @@
+{
+  "movies": [
+    {
+      "movieTitle": "NOT Oppenheimer",
+      "rating": 9,
+      "id": 1
+    },
+    {
+      "movieTitle": "Pulp Ficiton",
+      "rating": 6,
+      "id": 2
+    },
+    {
+      "movieTitle": "Harry Potter",
+      "rating": 3,
+      "id": 3
+    },
+    {
+      "movieTitle": "Harry Potter",
+      "rating": 3,
+      "id": 4
+    },
+    {
+      "id": 5
+    }
+  ],
+  "actors": [
+    {
+      "name": "John Travolta",
+      "id": 1
+    },
+    {
+      "name": "John Travolta",
+      "movieId": 3,
+      "id": 2
+    },
+    {
+      "name": "Daniel Radcliffe",
+      "movieId": 3,
+      "id": 3
+    }
+  ]
+}
